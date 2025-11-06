@@ -1,0 +1,20 @@
+body{background-color: hsla(303, 85%, 34%, 1)}
+h1{background-color:#000000; color: red;}
+h1{font-size: 48px;}
+h1{text-align: center;}
+h2{background-color:hsl(110, 100%, 35%); color:     rgb(255, 255, 255);}
+h2{font-weight: lighter;}
+h2{text-decoration: underline;}
+h3{background-color: yellow;}
+h3{font-style: oblique;}
+h3{line-weight: 1.35;}
+h3{word-spacing: .57cm;}
+p{color: rgb(255, 190, 210);}
+p{font-variant: small-caps;}
+em{text-transform: uppercase;}
+strong{text-shadow: 3px 3px 3px blue}
+ul{background-color: rgb(139, 155, 210);}
+ul{letter-spacing: 0.08em;}
+ol{background-color:hsl(100, 100%, 100%);color:lightgray;}
+ol{letter-spacing: 0.8em;}
+<!-- rgb(160, 13, 153); hex code #a00d99 -->
