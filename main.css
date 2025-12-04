@@ -13,7 +13,7 @@ p{color: hsl(351, 100%, 87%);}
 p{font-variant: small-caps;}
 em{text-transform: uppercase;}
 strong{text-shadow: 3px 3px 3px blue}
-ul{background-color: rgb(139, 155, 210);}
+ul{background-color: hsl(225, 27%, 69%);}
 ul{letter-spacing: 0.08em;}
 ol{background-color:hsl(100, 100%, 100%);color:lightgray;}
 ol{letter-spacing: 0.8em;}
